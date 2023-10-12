@@ -5,7 +5,7 @@ needed to result in exactly n H characters in the file.
 """
 
 
-def miniOperation(n) :
+def miniOperations(n) :
     """
     return the minimum of operations needed for the n H character
     """
